@@ -7,6 +7,8 @@ RivoCleaner frees disk space, fixes registry leftovers, updates outdated apps, a
 🌐 **Official Page & Download:** [mzguard.com/rivocleaner.html](https://mzguard.com/rivocleaner.html)  
 🌍 **Languages:** English & Italiano
 
+![RivoCleaner Overview](https://mzguard.com/RivoCleaner/rivo-hero.png)
+
 ---
 
 ## Core Philosophy: Remove Only What Is Safe
@@ -15,13 +17,6 @@ RivoCleaner frees disk space, fixes registry leftovers, updates outdated apps, a
 - **Recycle Bin Protection:** Cleaned files and leftovers are sent to the Recycle Bin rather than wiped irreversibly.
 - **Automatic Registry Backups:** Every registry cleanup or leftover fix creates a `.reg` backup first.
 - **Clear Reporting:** After cleaning, RivoCleaner reports exactly how much space was freed (KB/MB), item by item.
-
----
-
-## Screenshots
-
-<!-- Sostituisci con i link alle immagini su mzguard.com se disponibili -->
-<!-- ![RivoCleaner Main Window](https://mzguard.com/rivocleaner/screenshot.png) -->
 
 ---
 
